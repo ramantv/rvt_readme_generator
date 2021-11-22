@@ -2,11 +2,11 @@
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE) ![License](https://img.shields.io/static/v1?label=License&message=Apache&color=BLUE)
 
-# Blah
+# Explore National Parks
 
 
 ## Description
-THis is Blah app
+Explore National Parks is an application that allows the user to select any state in America and get information about all the National Parks in that state. The details include the full name and description of the National Park, the address, the phone and email addresses of the Park authority, the operating hours of the park, and the activities that are available in the Park. It also includes the current weather conditions at the Park and a 3-day forecast that will allow the user to plan their visit.
 
 ## Table of Contents
 
@@ -19,26 +19,27 @@ THis is Blah app
 
 
 ## Installation
-run npm index.js
+The appliation is pre-installed on Gihub pages.
 
 ## Usage
-Run the application and answer the prompts
+Go to github.com/ramantv/explore_national_parks to understand how to use it.
 
 ## Licenses
 * MIT  
 * Apache
 
 ## Contributors
-* BlahDeBlah Dev  
-*  Raman TV.
+* Rob Burson  
+*  Sam Davenport  
+*  Raman TV
 
 ## Tests
-BlahTestSuite
+ExploreNationalParks Test Suite
 
 ## Questions
 Contact information for questions:  
 
 
-Github: [blahDeBlah](https://www.github.com/blahDeBlah)  
+Github: [ramantv](https://www.github.com/ramantv)  
 
-Email: blahDeBlah@nomail.com
+Email: ramantv@nomail.com
