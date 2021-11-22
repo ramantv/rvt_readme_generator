@@ -12,8 +12,8 @@ This is a command line application that accepts user input to create a professio
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [Features](#features)
-* [License](#license)
-* [Contributing](#contributing)
+* [Licenses](#licenses)
+* [Contributors](#contributors)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -40,7 +40,7 @@ Answer questions that are provided. When entering the contributors, use a comma-
 * ISC  
 * OBSD
 
-## Contributor(s)
+## Contributors
 * RamanTV
 
 ## Tests
