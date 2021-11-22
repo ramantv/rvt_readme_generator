@@ -6,7 +6,7 @@
 
 
 ## Description
-Explore National Parks is an application that allows the user to select any state in America and get information about all the National Parks in that state. The details include the full name and description of the National Park, the address, the phone and email addresses of the Park authority, the operating hours of the park, and the activities that are available in the Park. It also includes the current weather conditions at the Park and a 3-day forecast that will allow the user to plan their visit.
+The application allows the user to select any state within the USA and get details about all the national parks within the state
 
 ## Table of Contents
 
@@ -19,22 +19,22 @@ Explore National Parks is an application that allows the user to select any stat
 
 
 ## Installation
-The appliation is pre-installed on Gihub pages.
+1. npm i 2. node index.js
 
 ## Usage
-Go to github.com/ramantv/explore_national_parks to understand how to use it.
+Run the application as above and answer the prompts
 
 ## Licenses
 * MIT  
 * Apache
 
 ## Contributors
-* Rob Burson  
+* Raman TV  
 *  Sam Davenport  
-*  Raman TV
+*  Rob Burson
 
 ## Tests
-ExploreNationalParks Test Suite
+Explore NP Test Suite
 
 ## Questions
 Contact information for questions:  
