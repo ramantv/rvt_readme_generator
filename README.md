@@ -24,8 +24,8 @@ Install npm (Inquirer and fs)
 Answer questions that are provided. When entering the contributors, use a comma-delimited list for correct formatting.
 
 ## Screenshot
-* ![Application Demo](https://youtu.be/XPLqh_mZT4w)
-* ![Sample ReadMe](./images/SampleReadMe.png)
+* [Application Demo](https://youtu.be/XPLqh_mZT4w)
+* [Sample Readme](./images/SampleReadme.png)
 
 ## Features
 * JavaScript
